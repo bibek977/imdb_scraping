@@ -54,10 +54,15 @@ for cast in movie_casts:
     movie_cast.append(cast.text)
 
 data = f"""page url = {current_url}
+
 movie name = {movie_name}
+
 movie trailor = {movie_trailor}
+
 movie type = {movie_type}
+
 movie summary = {movie_summary}
+
 movie cast = {movie_cast}
 """
 

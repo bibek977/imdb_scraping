@@ -1,6 +1,11 @@
 page url = https://www.imdb.com/title/tt0439572/?ref_=fn_al_tt_2
+
 movie name = The Flash
+
 movie trailor = https://www.imdb.com/video/vi895599897/?playlistId=tt0439572&ref_=tt_pr_ov_vi
+
 movie type = ['Action\nAdventure\nFantasy']
+
 movie summary = Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.
+
 movie cast = ['Ben Affleck\nBatman…', 'Michael Shannon\nGeneral Zod', 'Michael Keaton\nBatman…', 'Ezra Miller\nBarry Allen…', 'Kiersey Clemons\nIris West', 'Ron Livingston\nHenry Allen', 'Antje Traue\nFaora-UI', 'Temuera Morrison\nTom Curry', 'Sasha Calle\nSupergirl', 'Saoirse-Monica Jackson', 'Maribel Verdú\nNora Allen', 'Isabelle Bernardo\nPanicking Woman', 'Rudy Mancuso', 'Luke Brandon Field', 'Leon Masuda', 'Eric Tiede\nSecurity Guard(voice)', 'Andy M Milligan\nSports Bar Customer', 'Sean Rogers\nGary']
